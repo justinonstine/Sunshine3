@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">Detailed Forecast</string>
+    <string name="pref_location_key" translatable="false">Location</string>
+    <string name="pref_default_location" translatable="false">94061</string>
+    <string name="pref_location_title">Location</string>
+
+    <string name="pref_unit_title">Unit Type</string>
+    <string name="pref_unit_default">Metric</string>
+    <string name="pref_unit_key">Unit</string>
+    <string-array name="pref_unit_entries">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+    <string-array name="pref_unit_values">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+</resources>
